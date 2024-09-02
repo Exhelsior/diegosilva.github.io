@@ -73,6 +73,7 @@ body{
 }
 
 .contenido-operativo{
+    overflow-y: scroll;
     background-color: #ccc;
     display: flex;
     align-items: center;
